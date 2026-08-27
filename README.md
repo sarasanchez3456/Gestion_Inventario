@@ -1,9 +1,9 @@
-# Gestión de Inventario (Examen)
+# Gestión de Inventario(Examen)
 
-Este proyecto es una API sencilla desarrollada con **FastAPI** para la gestión de un inventario de productos. Fue creado como parte de una evaluación académica. 
+Este proyecto es una API sencilla desarrollada con **FastAPI** para la gestión de un inventario de productos. Es un examen. 
 
 ## ¿Qué contiene el código?
-El código establece un sistema básico CRUD (Crear, Leer, Actualizar y Eliminar) que almacena los productos temporalmente en memoria (utilizando un diccionario). Emplea `pydantic` para definir y validar la estructura de los datos del producto (ID, nombre, categoría, precio y stock).
+El código establece un sistema básico CRUD (Crear, Leer, Actualizar y Eliminar) que almacena los productos temporalmente en memoria (utilizando un diccionario). Usa `pydantic` para definir y validar la estructura de los datos del producto (ID, nombre, categoría, precio y stock).
 
 ## Endpoints Disponibles
 
